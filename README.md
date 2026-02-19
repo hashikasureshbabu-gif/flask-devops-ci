@@ -1,6 +1,7 @@
  **Flask DevOps CI Project**
  
 **📌 Project Overview**
+
 This project demonstrates a containerized Python Flask application integrated with an automated CI pipeline using GitHub Actions.
 
 **Dockerized Flask App with GitHub Actions CI** .This project demonstrates an end-to-end CI setup for a Dockerized Python Flask application.
@@ -19,8 +20,13 @@ More importantly, it helped me develop structured debugging skills across multip
 **🛠 Tech Stack**
 
 Python 3
+
 Flask
+
 Docker
+
 Git
+
 GitHub Actions
+
 Linux (WSL)
